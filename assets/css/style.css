@@ -1,0 +1,17 @@
+header {
+    background: linear-gradient(to right, #2f2fd1 0%, #421685 100%);
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+input {
+    border-radius: 5px;
+}
